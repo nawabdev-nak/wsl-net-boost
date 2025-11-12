@@ -4,17 +4,18 @@
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features (v1.1)
 ✅ Cloudflare + Google DNS Optimization  
-✅ Windows TCP Performance Tuning  
+✅ Windows TCP Performance Tuning (requires Administrator)  
 ✅ Auto Network Cleanup  
 ✅ Optional Speedtest  
+✅ Fixed permissions and obsolete command issues  
 ✅ Safe, Clean & Reversible  
 
 ---
 
-## 🧩 Quick Install
+## 🧩 Quick Install (v1.1)
 Run this one command in your Ubuntu (WSL2) terminal:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/nawabdev-nak/wsl-net-boost/main/speedup-wsl-net.sh)
-
+bash <(curl -fsSL https://raw.githubusercontent.com/nawabdev-nak/wsl-net-boost/main/speedup-wsl-net-v1.1.sh)
+```
