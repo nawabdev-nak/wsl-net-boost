@@ -14,8 +14,8 @@
 
 ---
 
-## 🧩 Quick Install (v1.1)
+## 🧩 Quick Install (v1.2)
 Run this one command in your Ubuntu (WSL2) terminal:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/nawabdev-nak/wsl-net-boost/main/speedup-wsl-net-v1.1.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/nawabdev-nak/wsl-net-boost/main/speedup-wsl-net-v1.2.sh)
 ```
